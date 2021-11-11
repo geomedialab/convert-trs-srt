@@ -8,6 +8,6 @@ Services which perform the conversion between `.trs` and `.srt` are hard to find
 
 ### instructions
 
-Simply download the script and, from the command line and inside the directory in which the script was downloaded, enter your python interpreter command, followed by the script name and then the file you want to convert (`python convert.py 'transcription_1.trs'`)
+Simply download the script and, from the command line and inside the directory in which the script was downloaded, enter your python interpreter command, followed by the script name and then the file you want to convert (`python convert.py 'transcription_1.trs'`). Make sure the file you want to convert is in this directory.
 
 The output `.srt` file can then be found in the same directory.
